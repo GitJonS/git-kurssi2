@@ -2,3 +2,4 @@
 - web-ohjelmoinnin tehtävä 7
 - web-ohjelmoinnin tehtävä 8
 - versiohallinnan tehtävä 2
+- osta joululahjat
